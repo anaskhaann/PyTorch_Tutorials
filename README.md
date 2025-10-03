@@ -1,3 +1,9 @@
+These are my notes while Learning PyTorch.
+
+Uploaded Here just to take a guick look through.
+
+---
+
 ## **What are Tensors**
 
 Tensor is a Specialized Multi dimesntional Array designed for mathematical and computational efficiency.
