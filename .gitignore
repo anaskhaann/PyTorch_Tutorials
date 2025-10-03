@@ -11,5 +11,7 @@ wheels/
 
 # Files
 
-*.csv
+fashion-mnist_test.csv
+fashion-mnist_train.csv
+fmnist_small.csv
 .python-version
